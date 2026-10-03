@@ -1,8 +1,8 @@
 {
-  "title": "Multinational Trial Randomization Desk",
-  "subtitle": "Stratified randomization, role isolation, safe unblinding and pending queue",
-  "randomize": "Randomize",
-  "participants": "Participants",
-  "audit": "Safety audit",
-  "pending": "Pending queue"
+  "title": "Multinational Trial Randomization, Withdrawal & Unblinding Console",
+  "subtitle": "Stratified block allocation · voided numbers retained and rebalanced · concurrency lock · transactional retry · role isolation · hash-chained audit",
+  "randomize": "Stratified block allocation",
+  "participants": "Participant ledger",
+  "audit": "Safety audit (append-only)",
+  "pending": "Offline pending queue"
 }
